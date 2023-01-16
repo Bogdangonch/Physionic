@@ -6,7 +6,7 @@ body {
 .wrapper {
   width: 100%;
   padding-bottom: 50px;
-  background-image: url(/image/background.jpg);
+  background-image: url(../image/background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: inherit;
